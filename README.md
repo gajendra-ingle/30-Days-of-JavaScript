@@ -4,7 +4,7 @@
 
 | Day | Questions                                                  |
 |------|---------------------------------------------------------|
-| 01 |  [ Write a function that takes two numbers as arguments and returns their sum.](./50%20Days%20JavaScript%20Challenge/1-Day.js)|
+| 01 |  [ Write a function that takes two numbers as arguments and returns their sum.](./30%20Days%20JavaScript%20Challenge/1-Day.js)|
 | 02 |  [  ]()|
 | 03 |  [  ]()|
 | 04 |  [  ]()|
