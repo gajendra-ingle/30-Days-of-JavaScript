@@ -7,7 +7,7 @@
 | 01 |  [ Write a function that takes two numbers as arguments and returns their sum.](./30%20Days%20JavaScript%20Challenge/1-Day.js)|
 | 02 |  [ Write a function that takes a string as an argument and returns its length.](./30%20Days%20JavaScript%20Challenge/2-Day.js)|
 | 03 |  [ Write a program that takes two numbers and displays their sum, difference, product, and quotient. ](./30%20Days%20JavaScript%20Challenge/3-Day.js)|
-| 04 |  [  ]()|
+| 04 |  [ Write a function that takes two numbers as arguments and returns the larger number. ](./30%20Days%20JavaScript%20Challenge/4-Day.js)|
 | 05 |  [  ]()|
 | 06 |  [  ]()|
 | 07 |  [  ]()|
