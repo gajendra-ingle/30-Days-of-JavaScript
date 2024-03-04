@@ -10,7 +10,7 @@
 | 04 |  [ Write a function that takes two numbers as arguments and returns the larger number. ](./30%20Days%20JavaScript%20Challenge/4-Day.js)|
 | 05 |  [ Write a program that displays a string in reverse order. ](./30%20Days%20JavaScript%20Challenge/5-Day.js)|
 | 06 |  [ Write a program that takes a number and checks whether it is positive, negative, or zero. ](./30%20Days%20JavaScript%20Challenge/6-Day.js)|
-| 07 |  [  ]()|
+| 07 |  [ Write a program that takes a number and prints the multiplication table for that number. ](./30%20Days%20JavaScript%20Challenge/7-Day.js)|
 | 08 |  [  ]()|
 | 09 |  [  ]()|
 | 10 |  [  ]()|
