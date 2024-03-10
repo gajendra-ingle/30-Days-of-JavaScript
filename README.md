@@ -16,7 +16,7 @@
 | 10 |  [ Write a function that takes two arrays of integers as arguments and returns an array of the common elements in both arrays, without any duplicates. The returned array should be sorted in ascending order. For example, given the arrays [1, 2, 3, 4, 5] and [3, 4, 5, 6, 7], the function should return [3, 4, 5]. ](./30%20Days%20JavaScript%20Challenge/10-Day.js)|
 | 11 |  [ Write a function called 'greet' that takes a name parameter and logs a greeting message to the console. ](./30%20Days%20JavaScript%20Challenge/11-Day.js)|
 | 12 |  [ Write a function called 'getSquare' that takes a number parameter and returns its square. ](./30%20Days%20JavaScript%20Challenge/12-Day.js)| 
-| 13 |  [  ]()|
+| 13 |  [ Write a function called 'countLetters' that takes a string parameter and returns an object that contains a count of each letter in the string.](./30%20Days%20JavaScript%20Challenge/13-Day.js)|
 | 14 |  [  ]()|
 | 15 |  [  ]()|
 | 16 |  [  ]()|
