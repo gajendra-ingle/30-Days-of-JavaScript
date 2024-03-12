@@ -18,7 +18,7 @@
 | 12 |  [ Write a function called 'getSquare' that takes a number parameter and returns its square. ](./30%20Days%20JavaScript%20Challenge/12-Day.js)| 
 | 13 |  [ Write a function called 'countLetters' that takes a string parameter and returns an object that contains a count of each letter in the string.](./30%20Days%20JavaScript%20Challenge/13-Day.js)|
 | 14 |  [ Write a function called 'createCounter' that returns a function. The returned function should increment a counter variable each time it is called and return the current count.](./30%20Days%20JavaScript%20Challenge/14-Day.js)|
-| 15 |  [  ]()|
+| 15 |  [ Write a function called 'sumEvenNumbers' that takes an array of numbers as a parameter and returns the sum of all even numbers in the array. ](./30%20Days%20JavaScript%20Challenge/15-Day.js)|
 | 16 |  [  ]()|
 | 17 |  [  ]()|
 | 18 |  [  ]()|
