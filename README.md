@@ -23,7 +23,7 @@
 | 17 |  [ Write a function that takes an array of strings as an argument and returns a new array with only the strings that have a length greater than 5. ](./30%20Days%20JavaScript%20Challenge/17-Day.js)|
 | 18 |  [ Write a function that takes an object and returns an array of all the keys in the object. ](./30%20Days%20JavaScript%20Challenge/18-Day.js)|
 | 19 |  [ Write a function that takes an array of objects and returns an array of all the values of a specified property name. ](./30%20Days%20JavaScript%20Challenge/19-Day.js)|
-| 20 |  [  ]()|
+| 20 |  [ Write a function that takes an array of objects and returns the object with the highest value for a specified property name. ](./30%20Days%20JavaScript%20Challenge/20-Day.js)|
 | 21 |  [  ]()|
 | 22 |  [  ]()|
 | 23 |  [  ]()|
