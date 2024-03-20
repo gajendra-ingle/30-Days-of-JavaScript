@@ -26,7 +26,7 @@
 | 20 |  [ Write a function that takes an array of objects and returns the object with the highest value for a specified property name. ](./30%20Days%20JavaScript%20Challenge/20-Day.js)|
 | 21 |  [ Write a function that returns a promise which resolves after a specified number of milliseconds.](./30%20Days%20JavaScript%20Challenge/21-Day.js)|
 | 22 |  [ Write a function that returns a promise which rejects with a specified error message after a specified number of milliseconds.](./30%20Days%20JavaScript%20Challenge/22-Day.js)|
-| 23 |  [  ]()|
+| 23 |  [ Write a function that returns a promise which resolves with an array of random numbers after a specified number of milliseconds. ](./30%20Days%20JavaScript%20Challenge/23-Day.js)|
 | 24 |  [  ]()|
 | 25 |  [  ]()|
 | 26 |  [  ]()|
