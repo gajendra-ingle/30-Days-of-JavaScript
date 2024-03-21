@@ -27,7 +27,7 @@
 | 21 |  [ Write a function that returns a promise which resolves after a specified number of milliseconds.](./30%20Days%20JavaScript%20Challenge/21-Day.js)|
 | 22 |  [ Write a function that returns a promise which rejects with a specified error message after a specified number of milliseconds.](./30%20Days%20JavaScript%20Challenge/22-Day.js)|
 | 23 |  [ Write a function that returns a promise which resolves with an array of random numbers after a specified number of milliseconds. ](./30%20Days%20JavaScript%20Challenge/23-Day.js)|
-| 24 |  [  ]()|
+| 24 |  [ Write a function that uses async/await to make an API call to fetch data and returns a promise with the response. ](./30%20Days%20JavaScript%20Challenge/24-Day.js)|
 | 25 |  [  ]()|
 | 26 |  [  ]()|
 | 27 |  [  ]()|
