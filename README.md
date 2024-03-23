@@ -29,7 +29,7 @@
 | 23 |  [ Write a function that returns a promise which resolves with an array of random numbers after a specified number of milliseconds. ](./30%20Days%20JavaScript%20Challenge/23-Day.js)|
 | 24 |  [ Write a function that uses async/await to make an API call to fetch data and returns a promise with the response. ](./30%20Days%20JavaScript%20Challenge/24-Day.js)|
 | 25 |  [ Write a function that uses async/await to make multiple API calls in parallel and returns a promise with an array of responses. ](./30%20Days%20JavaScript%20Challenge/25-Day.js)|
-| 26 |  [  ]()|
+| 26 |  [ Write a function that throws an error if the parameter is not a number, and handles the error with a custom error message. ](./30%20Days%20JavaScript%20Challenge/26-Day.js)|
 | 27 |  [  ]()|
 | 28 |  [  ]()|
 | 19 |  [  ]()|
