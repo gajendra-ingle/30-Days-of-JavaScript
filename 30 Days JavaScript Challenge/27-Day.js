@@ -2,7 +2,6 @@ function myFunction(num) {
     if (typeof num !== "number") {
       throw new Error("Parameter must be a number");
     }
-  
     return num * 2;
   }
   
