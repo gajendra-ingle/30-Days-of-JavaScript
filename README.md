@@ -31,6 +31,6 @@
 | 25 |  [ Write a function that uses async/await to make multiple API calls in parallel and returns a promise with an array of responses. ](./30%20Days%20JavaScript%20Challenge/25-Day.js)|
 | 26 |  [ Write a function that throws an error if the parameter is not a number, and handles the error with a custom error message. ](./30%20Days%20JavaScript%20Challenge/26-Day.js)|
 | 27 |  [ Write a try-catch block that catches any errors a function throws and logs them to the console with a custom error message. ](./30%20Days%20JavaScript%20Challenge/27-Day.js)|
-| 28 |  [  ]()|
+| 28 |  [ Write a function that takes a string as input and returns true if the string contains only alphabets, and false otherwise. ](./30%20Days%20JavaScript%20Challenge/28-Day.js)|
 | 19 |  [  ]()|
 | 30 |  [  ]()|
