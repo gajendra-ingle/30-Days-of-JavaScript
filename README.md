@@ -34,3 +34,4 @@
 | 28 |  [ Write a function that takes a string as input and returns true if the string contains only alphabets, and false otherwise. ](./30%20Days%20JavaScript%20Challenge/28-Day.js)|
 | 29 |  [ Write a function that takes a string as input and returns true if the string contains at least one digit, false otherwise. ](./30%20Days%20JavaScript%20Challenge/29-Day.js)|
 | 30 |  [ Write a function that takes a string as input and replaces all occurrences of "cat" with "dog". ](./30%20Days%20JavaScript%20Challenge/30-Day.js)|
+| 30 |  [ Write a function that takes an array of numbers and uses the spread operator to find the maximum value. ](./30%20Days%20JavaScript%20Challenge/31-Day.js)|
