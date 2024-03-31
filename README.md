@@ -37,5 +37,5 @@
 | 31 |  [ Write a function that takes an array of numbers and uses the spread operator to find the maximum value. ](./30%20Days%20JavaScript%20Challenge/31-Day.js)|
 | 32 |  [ Write a function that takes an object and uses destructuring to extract the values of its properties and return them as an array. ](./30%20Days%20JavaScript%20Challenge/32-Day.js)|
 | 33 |  [ Write a function that takes a string and uses template literals to create a new string with the input string and a variable inserted into it. ](./30%20Days%20JavaScript%20Challenge/33-Day.js)|
-| 34 |  [ ]()|
+| 34 |  [ Write a function to simulate an asynchronous delay using a callback. ](./30%20Days%20JavaScript%20Challenge/34-Day.js)|
 | 35 |  [ ]()|
