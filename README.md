@@ -38,4 +38,9 @@
 | 32 |  [ Write a function that takes an object and uses destructuring to extract the values of its properties and return them as an array. ](./30%20Days%20JavaScript%20Challenge/32-Day.js)|
 | 33 |  [ Write a function that takes a string and uses template literals to create a new string with the input string and a variable inserted into it. ](./30%20Days%20JavaScript%20Challenge/33-Day.js)|
 | 34 |  [ Write a function to simulate an asynchronous delay using a callback. ](./30%20Days%20JavaScript%20Challenge/34-Day.js)|
-| 35 |  [ ]()|
+| 35 |  [ Write a function that logs an error message to the console if a certain condition is not met. ](./30%20Days%20JavaScript%20Challenge/35.Day.js)|
+| 36 |  [ ]()|
+| 37 |  [ ]()|
+| 38 |  [ ]()|
+| 39 |  [ ]()|
+| 40 |  [ ]()|
