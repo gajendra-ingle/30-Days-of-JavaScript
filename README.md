@@ -39,8 +39,9 @@
 | 33 |  [ Write a function that takes a string and uses template literals to create a new string with the input string and a variable inserted into it. ](./30%20Days%20JavaScript%20Challenge/33-Day.js)|
 | 34 |  [ Write a function to simulate an asynchronous delay using a callback. ](./30%20Days%20JavaScript%20Challenge/34-Day.js)|
 | 35 |  [ Write a function that logs an error message to the console if a certain condition is not met. ](./30%20Days%20JavaScript%20Challenge/35.Day.js)|
-| 36 |  [ ]()|
+| 36 |  [ Write a function to fetch data from an API using the Fetch API and handle the response with a callback. ](./30%20Days%20JavaScript%20Challenge/36-Day.js)|
 | 37 |  [ ]()|
 | 38 |  [ ]()|
 | 39 |  [ ]()|
 | 40 |  [ ]()|
+
