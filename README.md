@@ -1,5 +1,6 @@
-# 30 Days of JavaScript Challenge
+# 30 Days of JavaScript Challenge 🎯
 
+Welcome to the 30 Days of JavaScript Challenges! This repository contains a series of challenges designed to improve your JavaScript skills over the span of 30 days. Each day presents a new challenge to solve, ranging from basic concepts to more advanced techniques. Whether you're a beginner looking to sharpen your skills or an experienced developer seeking a refresher, these challenges will provide an engaging way to enhance your understanding of JavaScript.
 
 
 | Day | Questions                                                  |
@@ -45,3 +46,6 @@
 | 39 |  [ ]()|
 | 40 |  [ ]()|
 
+
+## Acknowledgements 📃
+These challenges were inspired by various JavaScript resources and programming exercises. Special thanks to the developers and educators who have contributed to the JavaScript community.
