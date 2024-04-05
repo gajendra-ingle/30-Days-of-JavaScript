@@ -42,9 +42,7 @@ Welcome to the 30 Days of JavaScript Challenges! This repository contains a seri
 | 35 |  [ Write a function that logs an error message to the console if a certain condition is not met. ](./30%20Days%20JavaScript%20Challenge/35.Day.js)|
 | 36 |  [ Write a function to fetch data from an API using the Fetch API and handle the response with a callback. ](./30%20Days%20JavaScript%20Challenge/36-Day.js)|
 | 37 |  [ Write a function that takes an array of strings and returns a new array with all the strings in uppercase. ](./30%20Days%20JavaScript%20Challenge/37-Day.js)|
-| 38 |  [ ]()|
-| 39 |  [ ]()|
-| 40 |  [ ]()|
+
 
 
 ## Acknowledgements 📃
